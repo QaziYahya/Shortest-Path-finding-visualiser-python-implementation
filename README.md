@@ -7,6 +7,7 @@ Instructions for using the program:
   <li>First select the source node by holding control then clicking on any of the boxes.</li>
   <li>Now select the destination node by doing the same as step 1.</li>
   <li>To draw walls first click and hold the right mouse button then drag the mouse across the boxes.</li>
+  <li>Use the scroll wheel to zoom in or out accordingly. </li>
   <li>To clear everythig press escape.</li>
   <li>To start the path finding process hit enter.</li>
 </ol>
